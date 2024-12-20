@@ -1,4 +1,4 @@
-# izumisu's Assignment for mit6092
+# izumisu's assignment for mit6092
 
 Here is my assignments and reviews that I have learned.
 
